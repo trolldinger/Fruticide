@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 23fb56e0f7c0e6948af32dfba239d81b
+labels:
+- chiptunesoundfx
+AudioImporter:
+  serializedVersion: 4
+  format: 0
+  quality: .5
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0

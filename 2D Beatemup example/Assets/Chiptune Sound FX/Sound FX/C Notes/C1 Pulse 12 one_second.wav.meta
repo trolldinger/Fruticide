@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 48b82d83b9dca79428e497df714f2331
+labels:
+- chiptunesoundfx
+- cnotes
+AudioImporter:
+  serializedVersion: 4
+  format: 0
+  quality: .5
+  stream: 1
+  3D: 1
+  forceToMono: 0
+  useHardware: 0
+  loopable: 0
